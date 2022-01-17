@@ -5,6 +5,8 @@ Get hands-on experience with the Keras dataset, train a variety of classificatio
 
 Link to the project [Classification of Handwritten Digits](https://hyperskill.org/projects/205).
 
+Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects)
+
 ## Demo
 
 ## Stages
